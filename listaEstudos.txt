@@ -22,3 +22,11 @@ Durante o desenvolvimento de um software* queremos saber:
 Pull Requests: pedindo revisão
 Um Pull Request (PR) é um pedido para que as mudanças de um branch sejam revisadas e mescladas ao branch
 principal. É assim que times profissionais revisam código antes de ele entrar no projeto oficial
+
+O que é o Git Bash
+Git Bash é um terminal que já vem instalado automaticamente junto com o Git para Windows. Ele simula,
+dentro do Windows, o mesmo terminal ("Bash") usado nativamente por sistemas Linux e Mac.
+Isso importa porque o próprio Git foi criado no mundo Linux — todos os tutoriais, toda a documentação oficial e
+a grande maioria dos exemplos disponíveis na internet assumem que você está usando comandos no estilo Bash
+(ls, pwd, mkdir, rm...). O Git Bash traz esse mesmo padrão para dentro do Windows, evitando ficar "traduzindo"
+comandos toda hora.
