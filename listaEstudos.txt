@@ -2,3 +2,11 @@ O que é um branch?
 Um branch ("galho", em inglês) é uma linha independente de desenvolvimento dentro do mesmo repositório. Ele
 permite testar algo novo sem mexer na versão principal do projeto.
 O branch main é, por convenção, a linha principal — a versão "oficial" e estável do projeto
+
+O que é Controle de Versão de Código?
+Imagine esta outra situação:
+- Você trabalha em uma empresa onde os arquivos de programa ficam salvos no Dropbox;
+- Você e um colega estão trabalhando no mesmo arquivo de programa, e baixam o mesmo arquivo;
+- Você edita o arquivo, finaliza seu trabalho e salva no Dropbox;
+- Seu colega edita o arquivo, finaliza o trabalho dele no final do dia e salva o arquivo no Dropbox,
+sobrescrevendo seu arquivo.
