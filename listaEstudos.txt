@@ -30,3 +30,12 @@ Isso importa porque o próprio Git foi criado no mundo Linux — todos os tutori
 a grande maioria dos exemplos disponíveis na internet assumem que você está usando comandos no estilo Bash
 (ls, pwd, mkdir, rm...). O Git Bash traz esse mesmo padrão para dentro do Windows, evitando ficar "traduzindo"
 comandos toda hora.
+
+Atalhos úteis do Git Bash
+● Tab: autocompleta nomes de pastas, arquivos e até comandos — digite as primeiras letras e pressione
+Tab
+● Seta para cima (↑): repete o último comando digitado — pressione várias vezes para navegar pelo
+histórico
+● Ctrl + C: cancela o comando em execução ou limpa a linha atual
+● Ctrl + L: limpa a tela (mesmo efeito do comando clear)
+● Botão direito do mouse: cola o que estiver copiado (o Ctrl+V comum nem sempre funciona no Git Bash)
