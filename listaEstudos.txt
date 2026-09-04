@@ -18,3 +18,7 @@ Durante o desenvolvimento de um software* queremos saber:
 - Por que mudou?
 - Quem fez a mudança?
 - Podemos reproduzir esta mudança?
+
+Pull Requests: pedindo revisão
+Um Pull Request (PR) é um pedido para que as mudanças de um branch sejam revisadas e mescladas ao branch
+principal. É assim que times profissionais revisam código antes de ele entrar no projeto oficial
