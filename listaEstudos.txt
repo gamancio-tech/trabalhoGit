@@ -10,3 +10,11 @@ Imagine esta outra situação:
 - Você edita o arquivo, finaliza seu trabalho e salva no Dropbox;
 - Seu colega edita o arquivo, finaliza o trabalho dele no final do dia e salva o arquivo no Dropbox,
 sobrescrevendo seu arquivo.
+
+O que é o Git?
+Durante o desenvolvimento de um software* queremos saber:
+- O que mudou?
+- Quando mudou?
+- Por que mudou?
+- Quem fez a mudança?
+- Podemos reproduzir esta mudança?
