@@ -40,11 +40,6 @@ histórico
 ● Ctrl + L: limpa a tela (mesmo efeito do comando clear)
 ● Botão direito do mouse: cola o que estiver copiado (o Ctrl+V comum nem sempre funciona no Git Bash)
 
-alteração de arquivo gustavo
-
-Alterando branch 02
-Alterações legais do branch
-
-Subindo o push
+Kauê concertos
 
 
