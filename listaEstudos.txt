@@ -42,3 +42,4 @@ histórico
 
 
 Alterando branch 
+Alterações legais do branch
