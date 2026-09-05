@@ -43,7 +43,8 @@ histórico
 alteração de arquivo gustavo
 
 Alterando branch 02
-
+Alterações legais do branch
 
 Subindo o push
+
 
