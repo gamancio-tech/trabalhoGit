@@ -42,4 +42,8 @@ histórico
 
 alteração de arquivo gustavo
 
-Alterando o branch 02
+Alterando branch 02
+
+
+Subindo o push
+
