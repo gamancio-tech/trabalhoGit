@@ -41,4 +41,4 @@ histórico
 ● Botão direito do mouse: cola o que estiver copiado (o Ctrl+V comum nem sempre funciona no Git Bash)
 
 
-Alterando branch 
+Alterando o branch 02
