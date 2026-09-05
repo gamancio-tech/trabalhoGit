@@ -41,3 +41,5 @@ histórico
 ● Botão direito do mouse: cola o que estiver copiado (o Ctrl+V comum nem sempre funciona no Git Bash)
 
 alteração de arquivo gustavo
+
+Alterando o branch 02
